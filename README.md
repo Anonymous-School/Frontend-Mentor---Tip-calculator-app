@@ -1,4 +1,6 @@
 # Frontend Mentor - Tip calculator app
+## Live Preview : [Click Here](https://anonymous-school.github.io/Frontend-Mentor---Tip-calculator-app/)
+
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
